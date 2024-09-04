@@ -1,0 +1,12 @@
+{
+    "name": "bonini_discord_bot",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "fs": "^0.0.1-security"
+    }
+}
